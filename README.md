@@ -14,3 +14,9 @@
   
 ## What We Are Going to do
 
+- Updating the Official doc. created by thinaya. (everyone)
+- Send Updates about the mathematical model. (Dushani, Presha)
+- thinaya, Anuhas - 0-100 - Data analytics (Curvature, top-bottom curvature) - Data Visualization
+- Dushani, Janith - 101-200
+- pooja, Lochana - 201-300
+- Imasha,Bihansa,Presha - 301-500

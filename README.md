@@ -2,5 +2,11 @@
 
 
 # 8/10/2025;
-Thinaya - documenting
-lochana, pooja - visualizations , gaussian curvature calcualtion using pyvista library.
+
+## What We Have Done
+
+- Thinaya - documenting
+- lochana, pooja - visualizations , gaussian curvature calcualtion using pyvista library.
+
+## What We Are Going to do
+

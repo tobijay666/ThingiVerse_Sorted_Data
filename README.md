@@ -20,3 +20,5 @@
 - Dushani, Janith - 101-200
 - pooja, Lochana - 201-300
 - Imasha,Bihansa,Presha - 301-500
+Some models have same shapes but the scales are different, this is avoided by normalizing the data before analysis.
+## The repeated models should be market as red in the google sheet
